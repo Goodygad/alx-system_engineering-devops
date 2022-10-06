@@ -1,0 +1,1 @@
+Another solution to task
